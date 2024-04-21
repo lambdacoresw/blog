@@ -1,4 +1,4 @@
 # blog
 
 ## PHP
-- [Autoloading](./categories/php/autoload.php)
+- [Autoloading](https://github.com/lambdacoresw/blog/blob/main/categories/php/autoload.md)
