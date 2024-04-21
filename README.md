@@ -1,4 +1,4 @@
 # blog
 
 ## PHP
-- [Autoloading](categories/php/autoload.php)
+- [Autoloading](./categories/php/autoload.php)
